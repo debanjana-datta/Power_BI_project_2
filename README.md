@@ -1,2 +1,1 @@
-# Power_BI_project_2
-USA state university admissions
+I have designed a dashboard to analyze the trend of admissions into state universities in the USA using Power BI.
